@@ -7,6 +7,7 @@ fun main(args: Array<String>){
   }
   check_when()
 }
+
 fun check_when(){
   val items = listOf("apple", "orange", "carrot")
   when{
